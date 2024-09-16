@@ -1,0 +1,58 @@
+[
+    {
+        "img" :"https://hisartimesnews.com/wp-content/uploads/2024/05/screenshot_20240528_192519_chrome.jpg?w=400&h=200&crop=1",
+        "tittle": ["TopNews", "Politics" ,"Education"],
+        "desc":"AC क्यों बन रहे है विस्फोटक ? कही आप का AC भी ना बन जाये बम्ब !",
+        "date" :"May 28 2024 ",
+        "comments": "Comments",
+        "engDesc" :"ac-kyo-ban-rahe-hai-visphotak-kahee-aap-ka-ac-bhee-na-ban-jaaye-bamb"
+    },
+    {
+        "img":"https://hisartimesnews.com/wp-content/uploads/2024/05/screenshot_20240528_120427_chrome.jpg?w=400&h=200&crop=1",
+        "tittle": ["TopNews", "Health" , "Education"],
+        "desc":"22 साल पूर्व डेरा प्रबंधक रणजीत सिंह हत्या कांड में, हाई कोर्ट से - गुरमीत राम रहीम बरी",
+        "date" :"May 26 2024 ",
+        "comments": "Comments",
+        "engDesc" : "22-saal-poorv-dera-prabandhak-ranajeet-sinh-hatya-kaand-mein-high-court-se-gurameet-raam-raheem-baree"
+    },
+    {
+        "img":"https://hisartimesnews.com/wp-content/uploads/2024/05/screenshot_20240527_182030_gallery.jpg?w=400&h=200&crop=1",
+        "tittle": ["Automobile","Health" ,"TopNew"],
+        "desc":"50 फीट ऊंचाई से पाइप गिरा,6 गाडिया 1 बाइक क्षतिग्रस्त !",
+        "date" :"May 28 2024 ",
+        "comments": "Comments",
+        "engDesc":"50-foot-oonchaee-se-paip-gira-6-gaadiya-1-baik-kshatigrast"
+    },
+    {
+        "img":"https://hisartimesnews.com/wp-content/uploads/2024/05/screenshot_20240527_182030_gallery.jpg?w=400&h=200&crop=1",
+        "tittle": ["Automobile","Health" ,"Sport"],
+        "desc":"50 फीट ऊंचाई से पाइप गिरा,6 गाडिया 1 बाइक क्षतिग्रस्त !",
+        "date" :"May 28 2024 ",
+        "comments": "Comments",
+        "engDesc":"50-foot-oonchaee-se-paip-gira-6-gaadiya-1-baik-kshatigrast"
+    },
+    {
+        "img":"https://hisartimesnews.com/wp-content/uploads/2024/05/screenshot_20240527_182030_gallery.jpg?w=400&h=200&crop=1",
+        "tittle": ["Gadgets","Health" ,"TopNew"],
+        "desc":"50 फीट ऊंचाई से पाइप गिरा,6 गाडिया 1 बाइक क्षतिग्रस्त !",
+        "date" :"May 28 2024 ",
+        "comments": "Comments",
+        "engDesc":"50-foot-oonchaee-se-paip-gira-6-gaadiya-1-baik-kshatigrast"
+    },
+    {
+        "img":"https://hisartimesnews.com/wp-content/uploads/2024/05/screenshot_20240527_182030_gallery.jpg?w=400&h=200&crop=1",
+        "tittle": ["Bollywood","Business"],
+        "desc":"50 फीट ऊंचाई से पाइप गिरा,6 गाडिया 1 बाइक क्षतिग्रस्त !",
+        "date" :"May 28 2024 ",
+        "comments": "Comments",
+        "engDesc":"50-foot-oonchaee-se-paip-gira-6-gaadiya-1-baik-kshatigrast"
+    },
+    {
+        "img":"https://hisartimesnews.com/wp-content/uploads/2024/05/screenshot_20240527_182030_gallery.jpg?w=400&h=200&crop=1",
+        "tittle": ["Bollywood","Business" , "Lifestyle"],
+        "desc":"AC क्यों बन रहे है विस्फोटक ? कही आप का AC भी ना बन जाये बम्ब !",
+        "date" :"May 28 2024 ",
+        "comments": "Comments",
+        "engDesc" :"ac-kyon-ban-rahe-hai-visphotak-kahee-aap-ka-ac-bhee-na-ban-jaaye-bamb"
+    }
+]
